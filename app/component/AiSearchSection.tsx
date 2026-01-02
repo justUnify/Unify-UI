@@ -13,7 +13,7 @@ export default function AiSearchSection() {
    </h2>
 
    <p className="text-black max-w-2xl text-lg font-semibold mb-12">
-    Don't just search for keywords. Tell Unify what you need, and our AI will find the perfect student business, service, or product on your campus.
+    Don't just search for keywords. Tell Unify what you need, and our AI will find the perfect student service on your campus.
    </p>
 
    <div className="w-full max-w-3xl bg-white rounded-2xl shadow-xl border border-gray-200 overflow-hidden mb-12">
@@ -23,7 +23,7 @@ export default function AiSearchSection() {
      <div className="w-3 h-3 rounded-full bg-green-400"></div>
      <div className="ml-4 flex-1 bg-white rounded-md px-3 py-2 text-sm text-gray-500 flex items-center gap-2 shadow-sm">
       <Search size={16} />
-      <span>Find affordable clothing near me...</span>
+      <span>Find a cheap haircut near me...</span>
      </div>
     </div>
     <div className="p-8 grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -46,7 +46,7 @@ export default function AiSearchSection() {
        <Sparkles size={18} />
        <span className="font-bold text-sm">Trending</span>
       </div>
-      <p className="text-gray-700 font-medium text-sm group-hover:text-blue-600">"Cool vintage jackets under £20"</p>
+      <p className="text-gray-700 font-medium text-sm group-hover:text-blue-600">"Graphic designers for my startup"</p>
      </div>
     </div>
    </div>

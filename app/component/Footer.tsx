@@ -14,7 +14,7 @@ export default function Footer() {
 
      <div className="flex items-center gap-2 bg-orange-50 px-4 py-2 rounded-full border border-orange-100">
       <span className="text-orange-500">🇬🇧</span>
-      <span className="text-sm font-bold text-orange-700">#1 Best Student Marketplace in the UK</span>
+      <span className="text-sm font-bold text-orange-700">#1 Best Student Services Marketplace in the UK</span>
      </div>
     </div>
 

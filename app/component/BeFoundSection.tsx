@@ -10,7 +10,7 @@ export default function BeFoundSection() {
   },
   {
    title: "Secure Payments",
-   description: "Transactions are protected. Funds are held safely until the service or product is delivered.",
+   description: "Transactions are protected. Funds are held safely until the service is completed.",
    icon: <Lock size={40} className="text-orange-500" />
   },
   {
@@ -32,7 +32,7 @@ export default function BeFoundSection() {
    </h2>
 
    <p className="text-black max-w-2xl text-lg font-semibold mb-16">
-    Unify is built for safety. Verified identities and secure transactions mean you can buy and sell with confidence.
+    Unify is built for safety. Verified identities and secure transactions mean you can book and offer services with confidence.
    </p>
 
    <div className="grid grid-cols-1 md:grid-cols-2 gap-x-12 gap-y-16 w-full text-center">

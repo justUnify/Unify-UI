@@ -45,7 +45,7 @@ export default function Navbar() {
      </Link>
      <div className="hidden md:flex items-center gap-6 text-sm font-bold text-black">
       <Link href="#" className="hover:text-orange-500 transition-colors border-b-2 border-transparent hover:border-orange-500">
-       Products
+       Services
       </Link>
       <Link href="/pricing" className="hover:text-orange-500 transition-colors border-b-2 border-transparent hover:border-orange-500">
        Pricing

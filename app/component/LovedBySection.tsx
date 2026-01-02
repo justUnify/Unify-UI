@@ -6,7 +6,7 @@ const testimonials = [
   name: "Sarah Jenkins",
   role: "Seller @ NYU",
   image: "/image 40.png",
-  quote: "I used to feel invisible, but with Unify, my handmade jewelry is finally getting seen by everyone on campus. I feel invincible now!"
+  quote: "I used to struggle to find clients, but with Unify, my photography bookings are fully booked by everyone on campus. I feel invincible now!"
  },
  {
   id: 2,
@@ -20,14 +20,14 @@ const testimonials = [
   name: "Maya Patel",
   role: "Seller @ UT Austin",
   image: "/image 42.png",
-  quote: "My vintage clothing store blew up overnight. Unify gave me the platform I needed to reach students who actually care about sustainable fashion."
+  quote: "My makeup artist business blew up overnight. Unify gave me the platform I needed to reach students who need glam for events."
  },
  {
   id: 4,
   name: "James Wilson",
   role: "Buyer @ Michigan",
   image: "/image 43.png",
-  quote: "I bought a bike from a senior moving out. The process was safe, easy, and I made a new friend. Unify is a game changer."
+  quote: "I booked a personal trainer from the sports science department. The process was safe, easy, and I made a new friend. Unify is a game changer."
  }
 ];
 
